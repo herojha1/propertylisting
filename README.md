@@ -22,7 +22,8 @@ settings.json:
 
 Configures the port for the live server.
 The port is set to 5501 for local development purposes​(settings).
-How to Run the Project
+i
+# How to Run the Project
 Set Up Live Server:
 
 Ensure you have a live server setup, which is configured to run on port 5501.
